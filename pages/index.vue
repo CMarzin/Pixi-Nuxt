@@ -10,6 +10,7 @@
       </h2>
       <h2 class="subtitle">
         scroll down to see the canvas
+        <Sprite></Sprite>
       </h2>
     </div>
   </section>
@@ -18,10 +19,12 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import Bunny from '~/assets/bunnyPlayground.js'
+import Sprite from '~/components/sprite.vue'
 
 export default {
   components: {
-    Logo
+    Logo,
+    Sprite
   },
   mounted () {
     Bunny()
