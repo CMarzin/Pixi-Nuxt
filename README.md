@@ -1,6 +1,7 @@
 # PIXI-NUXT-EXAMPLE
 
-> ssr with pixi
+> ssr with pixi little example related to this issue 
+> https://github.com/nuxt/nuxt.js/issues/2424
 
 ## Build Setup
 
